@@ -1,0 +1,22 @@
+{
+  "name": "bare-server-deployable",
+  "version": "1.2.3",
+  "description": "The Bare Server implementation in NodeJS.",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amethystnetwork-dev/bare-server-deployable.git"
+  },
+  "keywords": [
+    "tomp",
+    "tomphttp"
+  ],
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "@tomphttp/bare-server-node": "^1.2.3"
+  }
+}
